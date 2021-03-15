@@ -1,2 +1,2 @@
 # selenium_driver_tute
-personal notes, tutorial on selenium and chromedriver
+personal notes, tutorials on selenium and chromedriver
